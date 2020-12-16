@@ -37,7 +37,7 @@ class Upload {
                 }
 
                 echo 'Aqui está mais informações de debug:';
-                echo "<pre>";
+               
                 print_r($_FILES);
 
                 print "</pre>";
